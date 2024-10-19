@@ -1,0 +1,12 @@
+.item{
+    display: inline-block;
+    background-color: rgba(39, 183, 39, 0.716);
+    width: 350px;
+    height: 220px;
+    border: 2px dotted red;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    margin: 30px;
+}
